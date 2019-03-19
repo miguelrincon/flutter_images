@@ -22,7 +22,7 @@ This project displays an list of images from an external source. It uses flutter
 $ flutter run
 ```
 
-<img src="./doc_images/flutter_terminal.png" width="400">
+<img src="./doc_images/flutter_terminal.png" width="500">
 
 
 See in emulator window:
