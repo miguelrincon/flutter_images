@@ -22,12 +22,13 @@ This project displays an list of images from an external source. It uses flutter
 $ flutter run
 ```
 
-![Terminal](./doc_images/flutter_terminal.png)
+<img src="./doc_images/flutter_terminal.png" width="400">
 
 
 See in emulator window:
 
-![Home Screen](./doc_images/flutter_images.gif | width=200)
+<img src="./doc_images/flutter_images.gif" width="250">
+
 
 ## Simulator troubleshooting
 
