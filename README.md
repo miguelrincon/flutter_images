@@ -27,7 +27,7 @@ $ flutter run
 
 See in emulator window:
 
-![Home Screen](./doc_images/flutter_images.gif)
+![Home Screen](./doc_images/flutter_images.gif | width=200)
 
 ## Simulator troubleshooting
 
